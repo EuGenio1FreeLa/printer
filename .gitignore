@@ -1,0 +1,29 @@
+# Sensitive files
+openrouterkey
+.mcp.json
+.env
+*.env
+*.key
+*.pem
+
+# Node modules
+node_modules/
+n8n-mcp/node_modules/
+resend-mcp/node_modules/
+
+# Build artifacts (can be rebuilt)
+n8n-mcp/dist/
+resend-mcp/build/
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE
+.vscode/
+*.swp
+*.swo
+
+# Claude memory (personal)
+.claude/

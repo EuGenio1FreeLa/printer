@@ -1,0 +1,12 @@
+[submodule "n8n-mcp"]
+	path = n8n-mcp
+	url = https://github.com/czlonkowski/n8n-mcp.git
+[submodule "n8n-skills"]
+	path = n8n-skills
+	url = https://github.com/czlonkowski/n8n-skills.git
+[submodule "resend-mcp"]
+	path = resend-mcp
+	url = https://github.com/resend/mcp-send-email.git
+[submodule "HumanLayer-SDD-Method"]
+	path = HumanLayer-SDD-Method
+	url = https://github.com/humanlayer/humanlayer.git
