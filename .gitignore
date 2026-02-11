@@ -15,6 +15,10 @@ resend-mcp/node_modules/
 n8n-mcp/dist/
 resend-mcp/build/
 
+# Python
+__pycache__/
+*.pyc
+
 # OS files
 Thumbs.db
 Desktop.ini
